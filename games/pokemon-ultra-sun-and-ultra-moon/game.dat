@@ -1,0 +1,9 @@
+title = "Pokémon Ultra Sun and Ultra Moon"
+description = "Is by The Pokémon Company and Distributedo by Nintendo, though I think it's the best and many Pokémon fans Just LOVE it!"
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001B5000"
+region = "usa"
+release_date = "2018-07-21"

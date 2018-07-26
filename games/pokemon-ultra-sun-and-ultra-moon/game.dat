@@ -1,0 +1,9 @@
+title = "Pokémon Ultra Sun and Ultra Moon"
+description = "Great game, run PERFECTLY on citra"
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "00040000001B5100"
+region = "usa"
+release_date = "2018-07-25"
